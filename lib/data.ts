@@ -86,7 +86,7 @@ export const projectsData = [
   {
     title: "TravelLens Mobile App",
     description:
-      "Graduation Rise Project Capstone. As a cloud computing I handle requirements in the Google Cloud platform such as API, Storage, AI, and GCP Permissions.",
+      "Bangkit Academy Capstone Project. As a cloud computing I handle requirements in the Google Cloud platform such as API, Storage, AI, and GCP Permissions.",
     tags: ["GCP", "Flask/Python", "SQL", "Json", "Docker"],
     imageUrl: travellensImg,
   },
