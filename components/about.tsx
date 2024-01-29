@@ -22,12 +22,12 @@ export default function About() {
         After graduating with a degree in{" "}
         <span className="font-medium">Computer Science</span>, I decided to pursue my
         passion for programming. 
-        <span className="italic">My favorite part of programming</span> is the
+        <span className="italic"> My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and PrismaDB
+          React, Next.js, Node.js, and Express
         </span>
         . I am also familiar with TypeScript and Prisma. I am always looking to
         learn new technologies. I am currently looking for a{" "}
