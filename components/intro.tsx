@@ -63,7 +63,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Abiyyi.</span> I'm a{" "}
-        <span className="font-bold">front-end developer</span> and{" "}
+        <span className="font-bold">fullstack developer</span> and{" "}
         <span className="font-bold">fresh</span> graduate. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
         <span className="underline">React (Next.js)</span>.
@@ -91,7 +91,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href="/CV-Fullstack Dev.pdf"
           download
         >
           Download CV{" "}
