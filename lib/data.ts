@@ -5,7 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import youappImg from "@/public/youapp.png";
 import gdmImg from "@/public/gdm.png";
 import travellensImg from "@/public/travellens.png";
-
+import worky from "@/public/wwww.png";
 export const links = [
   {
     name: "Home",
@@ -54,13 +54,20 @@ export const experiencesData = [
     title: "IT Developer",
     location: "PT. Garam Dua Musim - Lamongan, ID",
     description:
-      " Executed tasks related to website configuration, maintenance, and troubleshooting to ensure optimal functionality",
+      "Full responsibility for the company website, handling maintenance, updating website interface, fixing bugs.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2022",
   },
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Worky - Visual Collaboration",
+    description:
+      "Free platform for anyone to build and share visual collaboration in real time.",
+    tags: ["React", "Next.js", "Tailwind", "Convex", "TypeScript", "Clerk", "Radix UI", "Zustand" ],
+    imageUrl: worky,
+  },
   {
     title: "YouApp Challanges",
     description:
@@ -80,6 +87,12 @@ export const projectsData = [
       "Zod",
       "PrismaDB",
       "Tanstack",
+      "Axios",
+      "Express",
+      "Next Cloudinary",
+      "Midtrans",
+      "MongoDB",
+      "Zustand"
     ],
     imageUrl: gdmImg,
   },
@@ -102,7 +115,6 @@ export const skillsData = [
   "Python",
   "React",
   "Next.js",
-  "Vue.js",
   "Node.js",
   "Git",
   "Tailwind",
@@ -111,8 +123,9 @@ export const skillsData = [
   "GraphQL",
   "Express",
   "PostgreSQL",
-  "Python",
   "Flask",
   "GCP",
   "Cypress",
+  "Axios",
+  "Zod"
 ] as const;
